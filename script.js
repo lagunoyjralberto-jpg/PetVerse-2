@@ -6,3 +6,7 @@ function connectWallet(){
 function buyNFT(item){
     alert("You selected: " + item + "\nPurchase system coming soon!");
 }
+
+function listNFT(){
+    alert("NFT listing system coming soon!");
+}
