@@ -1,7 +1,8 @@
-function startGame() {
-    alert("Welcome to PetVerse 2 Alpha!");
+
+function connectWallet(){
+    alert("Pi Wallet Testnet Connection - Prototype Mode");
 }
 
-function comingSoon() {
-    alert("Download Coming Soon!");
+function buyNFT(item){
+    alert("You selected: " + item + "\nPurchase system coming soon!");
 }
